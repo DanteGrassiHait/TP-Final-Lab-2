@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1540419755 source:c:\users\mbatt\desktop\tp.final(grassi-fraccaroli-murrie)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+
+1539969805 source:c:\users\mbatt\desktop\felipe murrie\carrera programacion\materias\progrylab 2\tp.final(grassi-fraccaroli-murrie)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+
+1540469983 source:c:\users\alumno\desktop\tp.final(grassi-fraccaroli-murrie)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+
+1540655553 source:c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"headers.h"
+
+1540657304 source:c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\menu.c
+	"headers.h"
+
+1540654547 c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+
+1540655553 source:c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\listas simples.c
+	"headers.h"
+
+1540655234 source:c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\gestion de socios.c
+	"headers.h"
+
+1540655234 source:c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\listas dobles.c
+	"headers.h"
+
+1540655289 source:c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\gestion de actividades.c
+	"headers.h"
+
+1540655626 source:c:\users\dante\desktop\tp.final(grassi-fraccaroli-murrie)\gestion contable.c
+	"headers.h"
+
+1540655626 source:c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\gestion contable.c
+	"headers.h"
+
+1540654547 c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+
+1540655289 source:c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\gestion de actividades.c
+	"headers.h"
+
+1540655234 source:c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\gestion de socios.c
+	"headers.h"
+
+1540655234 source:c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\listas dobles.c
+	"headers.h"
+
+1540655553 source:c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\listas simples.c
+	"headers.h"
+
+1540657597 source:c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+	"windows.h"
+	"time.h"
+	"headers.h"
+
+1540763073 source:c:\users\dante\desktop\programacion 1\tp.final(grassi-fraccaroli-murrie)\menu.c
+	"headers.h"
+
+1540655626 source:c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\gestion contable.c
+	"headers.h"
+
+1540654547 c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\headers.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+
+1540655289 source:c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\gestion de actividades.c
+	"headers.h"
+
+1540655234 source:c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\gestion de socios.c
+	"headers.h"
+
+1540655234 source:c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\listas dobles.c
+	"headers.h"
+
+1540655553 source:c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\listas simples.c
+	"headers.h"
+
+1540657597 source:c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"conio.h"
+	"windows.h"
+	"time.h"
+	"headers.h"
+
+1540763274 source:c:\users\dante\desktop\carpetas\facultad\tp.final(grassi-fraccaroli-murrie)\menu.c
+	"headers.h"
+
